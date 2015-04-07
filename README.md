@@ -130,7 +130,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Clusto](https://github.com/clusto/clusto) - Helps you keep track of your inventory, where it is, how it's connected, and provides an abstracted interface for interacting with the elements of the infrastructure.
 
 ## Configuration Management
-*Configuration management tools.*
+*Configuration management tools.*S
 
 * [Ansible](http://www.ansibleworks.com/) -  It's written in Python and manages the nodes over SSH.
 * [CFEngine](http://cfengine.com/) - Lightweight agent system. Configuration state is specified via a declarative language.
@@ -351,6 +351,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 * [Exim](http://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge.
 * [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in JavaScript.
 * [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+* [MailDev](https://github.com/djfarrelly/MailDev) - NodeJS SMTP Server + Web Interface for viewing and testing emails during development.
 * [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server, also useful for development.
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
